@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 
-		<title>{{ .Title }} | Kaldi</title>
+		<title>{{ .Title }} | Overcast</title>
 		<link rel="stylesheet" href="/css/main.css"/>
 
 		<meta charset="utf-8">
@@ -20,10 +20,20 @@
 		<meta name="theme-color" content="#fff">
 
 		<!-- Open Graph -->
-		<meta property="og:type" content="business.business">
+		<meta property="og:type" content="website">
 		<meta property="og:title" content="Overcast | Competitive Overwatch News and Podcast">
 		<meta property="og:url" content="/">
-		<meta property="og:image" content="/og-image.jpg">
+		<meta property="og:image" content="/og-image.png">
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108400845-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-108400845-1');
+		</script>
 
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	</head>
