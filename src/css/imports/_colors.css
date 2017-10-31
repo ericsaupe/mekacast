@@ -78,3 +78,10 @@
     box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
   }
 }
+
+.bg-fix-highlight {
+  padding: 0 var(--spacing-small);
+  & :first-child {
+    box-shadow: var(--spacing-small) 0 0 var(--highlight), -var(--spacing-small) 0 0 var(--highlight);
+  }
+}
