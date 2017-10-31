@@ -41,7 +41,7 @@
 }
 
 .bg-highlight {
-  background-color: --var(--highlight);
+  background-color: var(--highlight);
 }
 
 .bg-white {
