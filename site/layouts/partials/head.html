@@ -18,7 +18,7 @@
 			<meta name="description" content="MEKAcast is a new podcast and blog dedicated to the growing world of competitive Overwatch, Blizzard's team-based shooter. Tune in for our discussions about the Overwatch League, the ever-evolving metagame, the latest patch notes and their expected impact on the game, and the current state of our favorite FPS.">
 		{{ end }}
 		{{ if .Keywords }}
-			<meta name="keywords" content={{ .Keywords }}>
+			<meta name="keywords" content={{ delimit .Keywords " " }}>
 		{{ else }}
   		<meta name="keywords" content="Overwatch,Overwatch League,Podcast,Blog,eSports,MEKAcast">
 		{{ end }}
