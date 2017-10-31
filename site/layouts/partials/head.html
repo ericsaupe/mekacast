@@ -12,8 +12,16 @@
 		<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 		<!-- SEO -->
-		<meta name="description" content="MEKAcast is a new podcast and blog dedicated to the growing world of competitive Overwatch, Blizzard's team-based shooter. Tune in for our discussions about the Overwatch League, the ever-evolving metagame, the latest patch notes and their expected impact on the game, and the current state of our favorite FPS.">
-  	<meta name="keywords" content="Overwatch,Overwatch League,Podcast,Blog,eSports,MEKAcast">
+		{{ if .Description }}
+			<meta name="description" content={{ .Description }}>
+		{{ else }}
+			<meta name="description" content="MEKAcast is a new podcast and blog dedicated to the growing world of competitive Overwatch, Blizzard's team-based shooter. Tune in for our discussions about the Overwatch League, the ever-evolving metagame, the latest patch notes and their expected impact on the game, and the current state of our favorite FPS.">
+		{{ end }}
+		{{ if .Keywords }}
+			<meta name="keywords" content={{ .Keywords }}>
+		{{ else }}
+  		<meta name="keywords" content="Overwatch,Overwatch League,Podcast,Blog,eSports,MEKAcast">
+		{{ end }}
 
 		<!-- Favicons -->
 		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -21,7 +29,7 @@
 		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="manifest" href="/manifest.json">
-		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ff4400">
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#fff">
 		<meta name="theme-color" content="#fff">
 
 		<!-- Open Graph -->
