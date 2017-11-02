@@ -1,7 +1,7 @@
 <div class="ph2">
 
 	<!-- Title -->
-	<h3 class="b f5 grey-3 tc lh-title mb3">{{ .title }}</h3>
+	<h3 class="b f5 grey-3 tc lh-title mb3">{{ .title | safeHTML }}</h3>
 
 	<!-- Price -->
 	{{ if .price }}
