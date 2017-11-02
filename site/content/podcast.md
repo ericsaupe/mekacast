@@ -32,4 +32,10 @@ links:
       title: <a href="https://play.google.com/music/m/I7dfqlddusuhe4c5iqidnwxoxfq?t=MEKAcast"><img src="/img/icons/google-play.svg" alt="Google Play logo" class="db w3 center pv1"></a>
       buttonText: Google Play
       buttonLink: https://play.google.com/music/m/I7dfqlddusuhe4c5iqidnwxoxfq?t=MEKAcast
+pixelitis:
+  heading: Pixelitis.io
+  text: Other site text
+  image:
+    alt: Pixelitis Logo
+    image: /img/podcast/pixelitis-logo.png
 ---
