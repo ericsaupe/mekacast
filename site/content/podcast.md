@@ -34,7 +34,8 @@ links:
       buttonLink: https://play.google.com/music/m/I7dfqlddusuhe4c5iqidnwxoxfq?t=MEKAcast
 pixelitis:
   heading: Pixelitis.io
-  text: Other site text
+  text:
+    Do you enjoy the MEKAcast? Are you looking for another gaming podcast to add to your plate? Take a look at our firends at the The Pixelitis Show, a weekly podcast that delves into the wider world of video games and geek culture.
   image:
     alt: Pixelitis Logo
     image: /img/podcast/pixelitis-logo.png
