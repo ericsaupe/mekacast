@@ -1,0 +1,10 @@
+{{ partial "head" . }}
+{{ partial "nav" . }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+{{ partial "text-and-image" .Params.intro }}
+
+{{ partial "table" .Params.links }}
+
+{{ partial "footer" . }}
