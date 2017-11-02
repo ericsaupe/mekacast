@@ -39,6 +39,7 @@ pixelitis:
   image:
     alt: Pixelitis Logo
     image: /img/podcast/pixelitis-logo.png
+    link: http://pixelitis.io/
   buttonText: Pixelitis.io
   buttonLink: http://pixelitis.io/
 ---

@@ -3,7 +3,11 @@
 
 		<div class="flex-l mhn2-l">
       <div class="w-60-l ph2-l">
-				<img src="{{ .image.image }}" alt="{{ .image.alt }}" class="mb3">
+				{{ if .image.link }}
+					<a href="{{ .image.link }}"><img src="{{ .image.image }}" alt="{{ .image.alt }}" class="mb3"></a>
+				{{ else }}
+					<img src="{{ .image.image }}" alt="{{ .image.alt }}" class="mb3">
+				{{ end }}
 			</div>
 
 			<div class="w-40-l ph2-l">
