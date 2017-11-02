@@ -35,8 +35,10 @@ links:
 pixelitis:
   heading: Pixelitis.io
   text:
-    Do you enjoy the MEKAcast? Are you looking for another gaming podcast to add to your plate? Take a look at our firends at the The Pixelitis Show, a weekly podcast that delves into the wider world of video games and geek culture.
+    Do you enjoy the MEKAcast? Are you looking for another gaming podcast to add to your plate? Take a look at our friends at the <a href="https://soundcloud.com/pixelitis">The Pixelitis Show</a>, a weekly podcast that delves into the wider world of video games and geek culture.
   image:
     alt: Pixelitis Logo
     image: /img/podcast/pixelitis-logo.png
+  buttonText: Pixelitis.io
+  buttonLink: http://pixelitis.io/
 ---
