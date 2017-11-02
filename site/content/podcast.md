@@ -9,26 +9,26 @@ description:
 intro:
   heading: MEKAcast
   text:
-    Before she joined the MEKA unit to defend South Korea from the rising Omnic menace, Hana Song--better known by her moniker, D.Va--was a professional gamer whose elite skills and ridiculous APM had more than prepared her to pilot her mechanized armored drone.<br />That's why there's no better embodiment of the spirit of our podcast on the Overwatch roster.<br />Join us every week as we chat about all things related to competitive Overwatch. From the all the startling upsets of the Overwatch League, to the evolution of the metagame, to the impact of the latest game updates on professional and casual competitors alike.<br />It's a new exciting era for esports, heroes! Are you with us?<br />MEKA activated!
+    Join us every week as we chat about all things related to competitive Overwatch. From the all the startling upsets of the Overwatch League, to the evolution of the metagame, to the impact of the latest game updates on professional and casual competitors alike. It's a new exciting era for esports, heroes! Are you with us? MEKA activated!
   image:
     alt: MEKAcast Logo
     image: /img/podcast/logo.jpg
 links:
   heading: Where to get it
   description:
-    Look at all these places
+    Select your platform. If we're not where you want us to be, let us know!
   plans:
-    - description: iTunes is really cool and people should use it.
+    - description:
       title: iTunes
       buttonText: iTunes
       buttonLink: https://itunes.com
 
-    - description: SoundCloud is cool too
+    - description: 
       title: SoundCloud
       buttonText: SoundCloud
       buttonLink: https://soundcloud.com/mekacast
 
-    - description: Google Play has it too
+    - description: 
       title: Google Play
       buttonText: Google Play
       buttonLink: https://play.google.com
