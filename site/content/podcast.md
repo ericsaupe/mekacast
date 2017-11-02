@@ -5,7 +5,11 @@ page: /podcast.html
 image: /img/podcast/jumbotron.jpg
 heading: Podcast
 description:
-  MEKAcast is a new podcast and blog dedicated to the growing world of competitive Overwatch, Blizzard's team-based shooter. Tune in for our discussions about the Overwatch League, the ever-evolving metagame, the latest patch notes and their expected impact on the game, and the current state of our favorite FPS.
+  Before she joined the MEKA unit to defend South Korea from the rising Omnic menace, Hana Song--better known by her moniker, D.Va--was a professional gamer whose elite skills and ridiculous APM had more than prepared her to pilot her mechanized armored drone.
+  That's why there's no better embodiment of the spirit of our podcast on the Overwatch roster.
+  Join us every week as we chat about all things related to competitive Overwatch. From the all the startling upsets of the Overwatch League, to the evolution of the metagame, to the impact of the latest game updates on professional and casual competitors alike.
+  It's a new exciting era for esports, heroes! Are you with us?
+  MEKA activated!
 intro:
   heading: MEKAcast
   text:
