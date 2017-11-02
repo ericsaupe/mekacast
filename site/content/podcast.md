@@ -9,11 +9,7 @@ description:
 intro:
   heading: MEKAcast
   text:
-    Before she joined the MEKA unit to defend South Korea from the rising Omnic menace, Hana Song--better known by her moniker, D.Va--was a professional gamer whose elite skills and ridiculous APM had more than prepared her to pilot her mechanized armored drone.
-  That's why there's no better embodiment of the spirit of our podcast on the Overwatch roster.
-  Join us every week as we chat about all things related to competitive Overwatch. From the all the startling upsets of the Overwatch League, to the evolution of the metagame, to the impact of the latest game updates on professional and casual competitors alike.
-  It's a new exciting era for esports, heroes! Are you with us?
-  MEKA activated!
+    Before she joined the MEKA unit to defend South Korea from the rising Omnic menace, Hana Song--better known by her moniker, D.Va--was a professional gamer whose elite skills and ridiculous APM had more than prepared her to pilot her mechanized armored drone. That's why there's no better embodiment of the spirit of our podcast on the Overwatch roster. Join us every week as we chat about all things related to competitive Overwatch. From the all the startling upsets of the Overwatch League, to the evolution of the metagame, to the impact of the latest game updates on professional and casual competitors alike. It's a new exciting era for esports, heroes! Are you with us? MEKA activated!
   image:
     alt: MEKAcast Logo
     image: /img/podcast/logo.jpg
