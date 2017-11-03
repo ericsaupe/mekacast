@@ -12,11 +12,20 @@
 		<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 		<!-- SEO -->
+		{{ if .Title }}
+			<meta property="og:title" content="{{ .Title }} | MEKAcast">
+		{{ else }}
+			<meta property="og:title" content="MEKAcast | Competitive Overwatch News and Podcast">
+		{{ end }}
+
 		{{ if .Description }}
-			<meta name="description" content={{ .Description }}>
+			<meta name="description" content="{{ .Description }}">
+			<meta property="og:description" content="{{ .Description }}">
 		{{ else }}
 			<meta name="description" content="MEKAcast is a new podcast and blog dedicated to the growing world of competitive Overwatch, Blizzard's team-based shooter. Tune in for our discussions about the Overwatch League, the ever-evolving metagame, the latest patch notes and their expected impact on the game, and the current state of our favorite FPS.">
+			<meta property="og:description" content="MEKAcast is a new podcast and blog dedicated to the growing world of competitive Overwatch, Blizzard's team-based shooter. Tune in for our discussions about the Overwatch League, the ever-evolving metagame, the latest patch notes and their expected impact on the game, and the current state of our favorite FPS.">
 		{{ end }}
+
 		{{ if .Keywords }}
 			<meta name="keywords" content={{ delimit .Keywords " " }}>
 		{{ else }}
@@ -34,7 +43,6 @@
 
 		<!-- Open Graph -->
 		<meta property="og:type" content="website">
-		<meta property="og:title" content="MEKAcast | Competitive Overwatch News and Podcast">
 		<meta property="og:url" content="/">
 		<meta property="og:image" content="/og-image.png">
 
