@@ -5,9 +5,11 @@
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
 			{{ range where .Data.Pages "Type" "story" }}
-				<div class="ph1-ns w-50-ns flex">
-					{{ .Render "li" }}
-				</div>
+				{{ if le .Date.Unix .Now.Unix }}
+					<div class="ph1-ns w-50-ns flex">
+						{{ .Render "li" }}
+					</div>
+				{{ end }}
 			{{ end }}
 		</div>
 
