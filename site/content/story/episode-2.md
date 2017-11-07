@@ -3,7 +3,7 @@ title: 'Episode 2 - Moira, Blizzard World, and the World Cup'
 keywords: >-
   blizzcon,blizzcon 2017,overwatch,overwatch world cup,podcast,episode,news,show
   notes,overwatch league,blizzard world,moira
-date: 2017-11-07T19:54:08.957Z
+date: 2017-11-07T09:54:08.957Z
 description: >-
   Blizzcon and the World Cup have come and gone! In Episode 2, Eric and Ashton
   talk about the big Overwatch announcements--including a brand-new hero and
