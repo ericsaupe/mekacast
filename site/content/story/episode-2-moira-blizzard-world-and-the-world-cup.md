@@ -8,6 +8,7 @@ description: >-
   Blizzcon and the World Cup have come and gone! In Episode 2, Eric and Ashton
   talk about the big Overwatch announcements--including a brand-new hero and
   game map.
+image: /img/Overwatch_Moira_001_png_jpgcopy.jpg
 ---
 # Episode 2 - Moira, Blizzard World, and the World Cup
 
