@@ -1,12 +1,19 @@
 ---
-title: Episode 2
+title: 'Episode 2 - Moira, Blizzard World, and the World Cup'
 keywords: >-
   blizzcon,blizzcon 2017,overwatch,overwatch world cup,podcast,episode,news,show
   notes,overwatch league,blizzard world,moira
-date: 2018-10-31T19:54:08.957Z
-description: We go over Blizzcon and the Overwatch World Cup
+date: '11/7/2017 12:54 PM'
+description: >-
+  Blizzcon and the World Cup have come and gone! In Episode 2, Eric and Ashton
+  talk about the big Overwatch announcements--including a brand-new hero and
+  game map.
 ---
 # Episode 2
+
+Blizzcon and the World Cup have come and gone! In Episode 2, Eric and Ashton talk about the big Overwatch announcements--including a brand-new hero and game map--before diving into the most exciting highlights from the Overwatch World Cup: the tense showdown between the US and South Korea in the quarterfinals; Canada's Cinderella story, in which they defy all odds and make it to the very end to face off against the reigning champions; and more!
+
+Find us at mekacast.com for the show notes, blog posts, or to interact with us on our social media channels.
 
 ## Show Notes
 
