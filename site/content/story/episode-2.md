@@ -24,6 +24,7 @@ Find us at mekacast.com for the show notes, blog posts, or to interact with us o
 **Introduction**
 
 **News**
+
   * Final OWL team names
     * New York Excelsior - [Press Release](http://blizz.ly/NYXL)
     * Houston Outlaws - [Press Release](https://overwatchleague.com/en-us/news/21164551)
@@ -34,12 +35,14 @@ Find us at mekacast.com for the show notes, blog posts, or to interact with us o
   * Season 7 and Open Division Season 3 Begin - [Post](https://playoverwatch.com/en-us/blog/21173548)
 
 **Patch Notes and Balance Changes**
+
   * [PTR Changes](https://blizztrack.com/patch_notes/overwatch_ptr/41031)
     * Ana damage buffed to 70
     * Mercy resurrect time nerfed to 1.75 seconds while slowing 75%
     * Mercy's Ultimate makes cast time nearly instant.
 
 **Feature** _Blizzcon and Overwatch World Cup_
+
   * Blizzcon 2017
     * Behind the Scenes: “Evolving Overwatch Esports” | Overwatch - [YouTube](https://youtu.be/AUPExXBfS1s)
     * What did you think of the arena?
@@ -62,6 +65,7 @@ Find us at mekacast.com for the show notes, blog posts, or to interact with us o
       * SK wins 4-1 in Overtime on Numbani with just a few meters to spare
 
 **Concluding Remarks**
+
   * Hit up our site; first article should come out this week
   * Follow us on [Twitter](https://twitter.com/MEKAcast), like us on [Facebook](https://fb.me/mekacast/), join our [Discord](https://discord.gg/VFG9Cug), and review us
   * Also, check out [Pixelitis](http://pixelitis.io/)!
