@@ -11,6 +11,8 @@ description: >-
 ---
 # Episode 2
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352479803&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
 Blizzcon and the World Cup have come and gone! In Episode 2, Eric and Ashton talk about the big Overwatch announcements--including a brand-new hero and game map--before diving into the most exciting highlights from the Overwatch World Cup: the tense showdown between the US and South Korea in the quarterfinals; Canada's Cinderella story, in which they defy all odds and make it to the very end to face off against the reigning champions; and more!
 
 Find us at mekacast.com for the show notes, blog posts, or to interact with us on our social media channels.
