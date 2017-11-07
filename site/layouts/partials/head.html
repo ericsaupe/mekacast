@@ -21,9 +21,17 @@
 		{{ if .Description }}
 			<meta name="description" content="{{ .Description }}">
 			<meta property="og:description" content="{{ .Description }}">
+			<meta property="og:type" content="article">
 		{{ else }}
 			<meta name="description" content="MEKAcast is a new podcast and blog dedicated to the growing world of competitive Overwatch, Blizzard's team-based shooter. Tune in for our discussions about the Overwatch League, the ever-evolving metagame, the latest patch notes and their expected impact on the game, and the current state of our favorite FPS.">
 			<meta property="og:description" content="MEKAcast is a new podcast and blog dedicated to the growing world of competitive Overwatch, Blizzard's team-based shooter. Tune in for our discussions about the Overwatch League, the ever-evolving metagame, the latest patch notes and their expected impact on the game, and the current state of our favorite FPS.">
+			<meta property="og:type" content="website">
+		{{ end }}
+
+		{{ if .Params.image }}
+			<meta property="og:image" content="{{ .Params.image }}">
+		{{ else }}
+			<meta property="og:image" content="/og-image.png">
 		{{ end }}
 
 		{{ if .Keywords }}
@@ -42,9 +50,8 @@
 		<meta name="theme-color" content="#fff">
 
 		<!-- Open Graph -->
-		<meta property="og:type" content="website">
-		<meta property="og:url" content="/">
-		<meta property="og:image" content="/og-image.png">
+		<meta property="og:url" content="{{ .Permalink }}">
+
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<meta name="google-site-verification" content="X0h3zUHa93HjWPYdJxYhHzzEjK1wmmjtWtpP-uaHZvw" />
