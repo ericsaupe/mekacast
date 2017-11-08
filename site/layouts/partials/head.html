@@ -30,6 +30,8 @@
 
 		{{ if .Params.image }}
 			<meta property="og:image" content="{{ .Params.image }}">
+		{{ else if $.Scratch.Get "imageUrl" }}
+			<meta property="og:image" content="{{ $.Scratch.Get "imageUrl" }}">
 		{{ else }}
 			<meta property="og:image" content="/og-image.png">
 		{{ end }}
