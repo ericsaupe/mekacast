@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 
-		<title>{{ .Title }} | MEKAcast - Overwatch eSports Podcast</title>
+		<title>{{ .Title }} | MEKAcast - Overwatch eSports News and Podcast</title>
 		<link rel="stylesheet" href="/css/main.css"/>
 
 		<meta charset="utf-8">
@@ -13,11 +13,11 @@
 
 		<!-- SEO -->
 		{{ if .Title }}
-			<meta property="og:title" content="{{ .Title }} | MEKAcast">
-			<meta name="twitter:title" content="{{ .Title }} | MEKAcast" />
+			<meta property="og:title" content="{{ .Title }} | MEKAcast - Overwatch eSports News and Podcast">
+			<meta name="twitter:title" content="{{ .Title }} | MEKAcast - Overwatch eSports News and Podcast" />
 		{{ else }}
-			<meta property="og:title" content="MEKAcast | Competitive Overwatch News and Podcast">
-			<meta name="twitter:title" content="MEKAcast | Competitive Overwatch News and Podcast" />
+			<meta property="og:title" content="MEKAcast | Overwatch eSports News and Podcast">
+			<meta name="twitter:title" content="MEKAcast | Overwatch eSports News and Podcast" />
 		{{ end }}
 
 		{{ if .Description }}
@@ -34,14 +34,14 @@
 		{{ end }}
 
 		{{ if .Params.image }}
-			<meta property="og:image" content="{{ .Params.image }}">
-			<meta name="twitter:image" content="{{ .Params.image }}" />
+			<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.image }}">
+			<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.image }}" />
 		{{ else if $.Scratch.Get "imageUrl" }}
-			<meta property="og:image" content="{{ $.Scratch.Get "imageUrl" }}">
-			<meta name="twitter:image" content="{{ $.Scratch.Get "imageUrl" }}" />
+			<meta property="og:image" content="{{ .Site.BaseURL }}{{ $.Scratch.Get "imageUrl" }}">
+			<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $.Scratch.Get "imageUrl" }}" />
 		{{ else }}
-			<meta property="og:image" content="/og-image.png">
-			<meta name="twitter:image" content="/og-image.png" />
+			<meta property="og:image" content="{{ .Site.BaseURL }}/og-image.png">
+			<meta name="twitter:image" content="{{ .Site.BaseURL }}/og-image.png" />
 		{{ end }}
 
 		{{ if .Keywords }}
@@ -51,12 +51,12 @@
 		{{ end }}
 
 		<!-- Favicons -->
-		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-		<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-		<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-		<link rel="manifest" href="/manifest.json">
-		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#fff">
+		<link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.BaseURL }}/apple-touch-icon.png">
+		<link rel="icon" type="image/png" href="{{ .Site.BaseURL }}/favicon-32x32.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="{{ .Site.BaseURL }}/favicon-16x16.png" sizes="16x16">
+		<link rel="shortcut icon" href="{{ .Site.BaseURL }}/favicon.ico" type="image/x-icon">
+		<link rel="manifest" href="{{ .Site.BaseURL }}/manifest.json">
+		<link rel="mask-icon" href="{{ .Site.BaseURL }}/safari-pinned-tab.svg" color="#fff">
 		<meta name="theme-color" content="#fff">
 
 		<!-- Open Graph -->
