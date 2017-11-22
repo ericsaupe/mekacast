@@ -15,6 +15,8 @@ description: >-
   Florida Mayhem's and LA Gladiators' rosters.
 image: /img/owwc-xqc.jpg
 ---
+<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/359285180&amp;color=%238992b9&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
 In Episode 4 of the MEKAcast, Eric and Ashton chat about xQc's mid-match banned and on the expectation or lack thereof of sportsmanship in the Overwatch League. Then we dive into this week's patch, which saw the release of Moira along with a Mercy nerf that has brought the former support meta to its knees. Finally, we deep-dive into the Florida Mayhem's and LA Gladiators' rosters. Pre-season is just two weeks away!
 
 Find us at mekacast.com for the show notes, blog posts, or to interact with us on our social media channels. This episode was produced by Eric Saupe and Ashton Herrmann, who also mixed and edited it.
