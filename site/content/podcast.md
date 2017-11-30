@@ -32,14 +32,4 @@ links:
       title: <a href="https://play.google.com/music/m/I7dfqlddusuhe4c5iqidnwxoxfq?t=MEKAcast"><img src="/img/icons/google-play.svg" alt="Google Play logo" class="db w3 center pv1"></a>
       buttonText: Google Play
       buttonLink: https://play.google.com/music/m/I7dfqlddusuhe4c5iqidnwxoxfq?t=MEKAcast
-pixelitis:
-  heading: Pixelitis.io
-  text:
-    Do you enjoy the MEKAcast? Are you looking for another gaming podcast to add to your plate? Take a look at our friends at the <a href="https://soundcloud.com/pixelitis">The Pixelitis Show</a>, a weekly podcast that delves into the wider world of video games and geek culture.
-  image:
-    alt: Pixelitis Logo
-    image: /img/podcast/pixelitis-logo.png
-    link: http://pixelitis.io/
-  buttonText: Pixelitis.io
-  buttonLink: http://pixelitis.io/
 ---
