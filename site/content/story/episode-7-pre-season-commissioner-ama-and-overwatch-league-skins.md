@@ -35,6 +35,7 @@ This episode was produced by Ashton Herrmann and Eric Saupe, and audio editing w
 * PTR Patch December 5th, 2017 - [Play Overwatch](https://playoverwatch.com/en-us/blog/21275367)
 
 **Feature**
+
 * Pre-season review
 * Ryu Je-hong as Moira - [Kotaku](https://compete.kotaku.com/overwatch-pro-blasts-enemy-team-into-oblivion-with-moir-1821155637)
 * Diya Widowmaker on Anubis -[Instagram](https://www.instagram.com/p/BcY87DNngD3/?taken-by=overwatchleague)
