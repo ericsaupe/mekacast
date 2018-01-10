@@ -16,6 +16,8 @@ It's 2018, and the MEKAcast is back and ready to boost our APM! In our last epis
 
 Back into the fray!
 
+This episode was produced by Ashton Herrmann and Eric Saupe, and audio editing was performed by Ashton. You can find us at mekacast.com for show notes, blog posts, or links to our social media channels.
+
 ## Show Notes
 
 **Introduction**
@@ -43,12 +45,12 @@ Back into the fray!
 
  * Background 1GB patch
 
-**Feature** 
+**Feature**
 
   * Ashton responds to listener feedback about OWL player diversity
- 
+
   * Philadelphia Fusion
-    * [Twitter](https://twitter.com/PHL_Fusion) 
+    * [Twitter](https://twitter.com/PHL_Fusion)
     * Information - [Liquipedia](http://wiki.teamliquid.net/overwatch/Philadelphia_Fusion)
     * Roster - [Overwatch League](https://overwatchleague.com/en-us/players)
 
