@@ -10,6 +10,8 @@ description: >-
   absence from the league, drool over the fan map "Cairo," and much more.
 image: /img/owl.jpg
 ---
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/385113278&amp;color=%238992b9&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
 The inaugural season of the Overwatch League is finally here! Join us as we recount all the highs and lows of Week 1, discuss Geguri's controversial absence from the league, drool over the fan map "Cairo," and much more.
 
 Boop!
