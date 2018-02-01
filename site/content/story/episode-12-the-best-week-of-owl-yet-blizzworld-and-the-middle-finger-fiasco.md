@@ -22,3 +22,46 @@ We also talk Blizzworld, Profit's middle finger fiasco, and Winston's Map. Oh, a
 We're just getting warmed up, people!
 
 This episode was produced by Ashton Herrmann and Eric Saupe, and audio editing was performed by Ashton. You can find us at mekacast.com for show notes, blog posts, or links to our social media channels.
+
+## Show Notes
+
+**Introduction**
+
+**News**
+
+  *  Shanghai fan pledges to buy entire roster of skins if the Dragons can take a single map from Seoul; delivers - [Reddit](https://www.reddit.com/r/Overwatch/comments/7scy9r/if_shanghai_dragons_can_take_a_single_map_from/)
+  *  /r/CompetitiveOverwatch contest - [Reddit](https://www.reddit.com/r/Competitiveoverwatch/comments/7sfs6d/overwatch_league_prediction_dream_team_week_3/)
+  *  Profit and the face camera - [Twitch](https://clips.twitch.tv/AuspiciousBelovedBearPRChase) / [Overwatch League](https://overwatchleague.com/en-us/news/21494673/profit-fined)
+  *  Reddit user /u/benchmobDC posts incredible statistics out of Winston's Lab - [Reddit](https://www.reddit.com/r/Competitiveoverwatch/comments/7sxv2r/10_amazing_statistics_coming_out_of_overwatch/)
+  * Map Order Changed for the rest of Stage 1 - [Reddit](https://www.reddit.com/r/Competitiveoverwatch/comments/7snk3e/the_map_order_for_the_rest_of_stage_1_has_been/)
+  * Overwatch League™ Adds T-Mobile and Sour Patch Kids Brand to Growing Partner Roster - [BusinessWire](https://www.businesswire.com/news/home/20180126005147/en/Overwatch-League%E2%84%A2-Adds-T-Mobile-Sour-Patch-Kids)
+  * Watching OWL with your battle net linked to twitch gives tokens - [Reddit](https://imgur.com/a/IiSxy)
+  * Free Agent Signing Window is Open
+    * AKM is going to Dallas Fuel - [Twitter](https://twitter.com/hastr0/status/957328095098425344)
+
+**Patch Notes and Balance Changes - 15 mins**
+  *  Blizzard World is here! - [Battle.net](https://us.battle.net/forums/en/overwatch/topic/20761017262)
+    * Favorite skins?
+    * Thoughts on the map?
+  *  Developer Update Jan. 25 - [YouTube](https://youtu.be/5P1Md792fF8)
+    *  Looking into Hanzo balance for Scatter Arrow
+    * Jeff doesn't want to nerf Mercy into oblivion
+      *  She is the most played character "by far"
+
+**Feature**
+
+  * OWL Week 3 Review - [OverwatchLeague](https://overwatchleague.com/en-us/schedule)
+    *  Ashton's Highlights!
+      *  Shanghai takes a map win from Seoul!
+      *  Fusion beats NYXL 3-2!
+      *  Shanghai goes 5 maps with Fusion!
+    *  Eric attends a live game!
+    *  The battle for LA!
+
+**Concluding Remarks**
+
+ *  Hit up [our site](https://www.mekacast.com) for show notes and blog posts
+ *  Give us a review on [iTunes](https://itunes.apple.com/us/podcast/mekacast-overwatch-esports-podcast/id1304572195?mt=2), please!
+ *  Email us, <mekacast@gmail.com>, with questions, comments, etc.
+ *  Follow us on [Twitter](https://twitter.com/MEKAcast), like us on [Facebook](https://www.facebook.com/mekacast/), join our [Discord](https://discord.gg/VFG9Cug), and review us
+
