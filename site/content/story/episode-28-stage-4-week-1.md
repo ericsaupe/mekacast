@@ -1,7 +1,7 @@
 ---
 title: 'Episode 28 - Stage 4, Week 1'
 keywords: 'overwatch,episode 28'
-date: 2018-05-25T09:34:43-07:00
+date: 2018-05-25T16:34:43.000Z
 description: >-
   The first week of the last stage of the season just wrapped up, and we've
   already seen some heartbreaking defeats. Shanghai goes down to the Effect-less
@@ -9,6 +9,8 @@ description: >-
   record.
 image: /img/OVR_Anniversary_2018_000_png_jpgcopy-min.jpg
 ---
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/449336331&color=%238992b9&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 The first week of the last stage of the season just wrapped up, and we've already seen some heartbreaking defeats. Shanghai goes down to the Effect-less Fuel, while Boston fails to muster a win after their perfect stage three record.
 
 On the upside, we also discuss the success of the Pink Mercy skin, xQc's "swatting," the Spitfire's tribute to the royal wedding, and HiRez's latest attempt to steal Blizzard's work (I kid, I kid).
