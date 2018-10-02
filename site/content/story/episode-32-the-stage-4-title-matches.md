@@ -1,7 +1,7 @@
 ---
 title: Episode 32 - The Stage 4 title matches
 keywords: 'overwatch,episode 32'
-date: 2018-10-02T16:45:17.862Z
+date: 2018-06-29T09:45:17-07:00
 description: >-
   After a week-long hiatus, we're back to discuss the Stage 4 Title matches and
   the official end of the Overwatch League's first regular season.
