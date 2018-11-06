@@ -1,7 +1,7 @@
 ---
 title: Episode 44 - Is there such a thing as too much crowd control?
 keywords: 'overwatch,overwatch league,mekacast'
-date: 2018-10-31T08:49:28-07:00
+date: 2018-10-31T15:49:28.000Z
 description: >-
   For only the second time ever, the MEKAcast crew gathers together, AT THE SAME
   LOCATION, to record a new episode. We chat about the current patch notes,
@@ -20,12 +20,14 @@ This episode was produced by Eric Saupe and Ashton Herrmann, and audio editing a
 **Introduction**
 
 **News**
+
  * Users report game-breaking, post-patch bug - [Reddit](https://old.reddit.com/r/Competitiveoverwatch/comments/9ms14e/new_gamebreaking_bug_puts_main_menu_ui_over_in/)
  * Slasher: "Cloud9... is the single esports entity to be named on Forbes' new list of next billion dollar startups" - [@Slasher](https://twitter.com/Slasher/status/1051850573132300288)
  * OWL confirms the 2019 Season schedule - [Official](https://overwatchleague.com/en-us/news/22546499/get-ready-for-overwatch-league-s-2019-season)
  * It looks like we may be getting IRL Lucio-Ohs! - [PC Gamer](https://www.pcgamer.com/theyre-actually-making-overwatchs-lucio-ohs-into-real-cereal/)
 
 **Patch Notes and Balance Changes**
+
  * October 9, 2018 Patch Notes - [Official](https://playoverwatch.com/en-us/news/patch-notes/pc#patch-51575), [/u/ itsjeyang Giphy](https://gfycat.com/OrneryUnsungBluebottle)
    * Haloween Terror event returns
    * Torb's rework
